@@ -1,6 +1,6 @@
 # gitbump
 
-Sometimes one needs a tag that always points to the same commit as your latest realease tag. Now bumping your version number is a pain. `gitbump` increments the major, minor or patch number by one and updates `latest` too.
+Sometimes one needs a tag that always points to the same commit as your latest release tag. Bumping a version number is therefore a pain. `gitbump` increments the major, minor or patch number by one and updates a `latest` tag too.
 
 ### Install it!
 
